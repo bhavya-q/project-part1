@@ -14,11 +14,11 @@
   background-color: transparent;
   display: flex;
   list-style-type: none;
-  font-family: "Nunito Sans";
+  font-family: "Unica One", cursive;
 }
 
 .menu_link {
-  color: #838383;
+  color: white;
   display: block;
   padding: 15px;
   line-height: 10px;
@@ -167,4 +167,5 @@ footer p {
   float: right;
   padding-right: 10px;
   padding-bottom: 15px;
+  font-family: "Unica One", cursive;
 }
